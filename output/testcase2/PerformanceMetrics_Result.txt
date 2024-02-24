@@ -1,0 +1,10 @@
+Metrics for SS:
+Number of cycles taken: 7
+Cycles per instruction: 1.17
+Instructions per cycle: 0.86
+
+Metrics for FS:
+Number of cycles taken: 10
+Cycles per instruction: 1.67
+Instructions per cycle: 0.6
+
