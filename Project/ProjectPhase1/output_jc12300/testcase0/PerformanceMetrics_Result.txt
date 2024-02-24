@@ -1,0 +1,5 @@
+Metrics for SS:
+Number of cycles taken: 6
+Cycles per instruction: 1.2
+Instructions per cycle: 0.83
+
